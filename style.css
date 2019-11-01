@@ -1,84 +1,10 @@
-/*********************************************************************************
-
-    Template Name: JuniorHome Day Care  Bootstrap 4 Template  
-    Template URI: https://themeforest.net/user/hastech
-    Description: JuniorHome is a beautifula and unique Day Care Bootstrap 4 template.
-    Author: HasTech
-    Author URI: https://hastech.company/
-    Version: 1.0
-
-    Note: This is style css.
-
-**********************************************************************************/
-/*===============================================================================
-      [ CSS INDEX ]
-=================================================================================
-
-	reset
-	typography
-	helper-class
-	button
-	section-title
-	social-link
-	pagination
-	slide-activation
-	header
-	navigation
-	slider
-	banner
-	welcome
-	service
-	call-to-action
-	class
-	testimonial
-	gallery
-	blog
-	upcoming-event
-	subscribe
-	shopping-cart
-	team
-	counterup
-	choose_us
-	popular
-	product
-	event
-	kidz
-	courses
-	new-arrival
-	brand
-	bradcaump
-	class-list
-	event-list
-	sidebar
-	blog-grid
-	blog-details
-	shop-single
-	contact
-	event-details
-	class-details
-	log-in
-	checkout
-	cart
-	wishlist
-	gallery-details
-	footer
-
-
-
-
+/*
 // Needed Files
 @import 'variables.html';
 @import 'mixins.html';
 
 
 font-family: 'Ubuntu', sans-serif;
-
-
-
-
-
-
-
 
 /*******************
 Basic Styles
@@ -2469,7 +2395,7 @@ Reset Styles
 	color: #2f85d8;   /* changes */
 	display: inline-block;
 	font-family: "Dosis", sans-serif;
-	font-size: 72px;
+	font-size: 55px;
 	font-weight: 700;
 	padding: 13px 30px; }
   .slide .slide__inner .slider__text {
@@ -3339,7 +3265,7 @@ Reset Styles
 	  Call To Action
   ===========================*/
   .jnr__call__action__wrap {
-	padding: 70px 0; }
+	padding: 40px 0; }
 	.jnr__call__action__wrap .callto__action__inner h2 {
 	  color: #ffffff;
 	  font-family: "Dosis", sans-serif;
@@ -9247,7 +9173,7 @@ Reset Styles
 	  color: #fff; }
   
   footer.footer--2 {
-	padding-top: 35px;
+	padding-top: 5px;
 	position: relative; }
   
   .footer__widget .ftr__latest__post .single__ftr__post {
@@ -9328,7 +9254,7 @@ Reset Styles
 	margin-top: 8px; }
   
   .footer--2 .dcare__twit__wrap .dcare__twit + .dcare__twit {
-	margin-top: 22px; }
+	margin-top: 5px; }
   
   .dcare__twit__details span + span {
 	margin-left: 28px; }
@@ -9364,8 +9290,8 @@ Reset Styles
 		  width: 100%; }
   
   .footer--2 .footer__wrapper.section-padding--lg {
-	padding-bottom: 100px;
-	padding-top: 30px; }
+	padding-bottom: 40px;
+	padding-top: 20px; }
   
   .footer--2.space--vertical .footer__wrapper.section-padding--lg {
 	padding-bottom: 80px;
