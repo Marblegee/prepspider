@@ -3416,7 +3416,7 @@ Reset Styles
 	position: relative;
 	z-index: 2; }
 	.testimonial__bg::before {
-	  background: rgba(0, 0, 0, 0) url("images/testimonial/bg/1.png") repeat scroll center center/cover;
+	  background: rgba(0, 0, 0, 0) url("images/testimonial/bg/2.png") repeat scroll center center/cover;
 	  content: "";
 	  height: 100%;
 	  left: 0;
