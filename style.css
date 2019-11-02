@@ -666,7 +666,7 @@ Reset Styles
 	background-position: center center; }
   
   .bg-image--10 {
-	background-image: url("images/bg/10.jpg");
+	background-image: url("images/bg/9.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center center; }
@@ -9137,10 +9137,10 @@ Reset Styles
 	margin-top: 13px; }
   
   .footer--2 .footer__widget h4 {
-	color: #ffffff;
+	color: #2f85d8;
 	font-family: "Dosis", sans-serif; }
   .footer--2 .footer__widget .ftr__details p {
-	color: #ffffff; }
+	color: #2f85d8; }
   
   .ft__bottom__images--1 {
 	left: 0;
@@ -9264,13 +9264,13 @@ Reset Styles
 	.footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__icon i {
 	  color: #fff; }
   .footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__details p {
-	color: #fff; }
+	color: #2f85d8; }
 	.footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__details p a {
-	  color: #ffffff; }
+	  color: #2f85d8; }
   .footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__details span {
-	color: #fff; }
+	color: #2f85d8; }
 	.footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__details span i {
-	  color: #fff; }
+	  color: #2f85d8; }
   
   .footer--2 .footer__innner {
 	margin-top: 43px; }
@@ -9426,7 +9426,7 @@ Reset Styles
 	margin-bottom: 24px;
 	margin-top: 20px; }
   .footer--5 .footer__widget h4 {
-	color: #444444;
+	color: #2f85d8;
 	font-family: "Dosis", sans-serif;
 	font-size: 16px;
 	text-transform: uppercase; }
