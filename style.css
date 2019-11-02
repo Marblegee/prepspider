@@ -563,7 +563,7 @@ Reset Styles
   
   /* Background Color */
   .bg--theme {
-	background: #89d700; }
+	background: #d9f0ff; }
   
   .bg--light {
 	background: #999999; }
@@ -3392,7 +3392,7 @@ Reset Styles
 	  .testimonial__container .testimonial .testimonial__inner .test__icon {
 		margin-top: 29px; }
 	  .testimonial__container .testimonial .testimonial__inner .client__details p {
-		color: #ffffff;
+		color: #2f85d8;
 		font-family: "Roboto", sans-serif;
 		font-size: 16px;
 		font-style: normal;
@@ -3402,7 +3402,7 @@ Reset Styles
 	  .testimonial__container .testimonial .testimonial__inner .client__details .client__info {
 		margin-top: 16px; }
 		.testimonial__container .testimonial .testimonial__inner .client__details .client__info h6 {
-		  color: #ffffff;
+		  color: #2034a5;
 		  font-family: "Dosis", sans-serif;
 		  font-size: 16px;
 		  font-weight: 700;
@@ -3416,7 +3416,7 @@ Reset Styles
 	position: relative;
 	z-index: 2; }
 	.testimonial__bg::before {
-	  background: rgba(0, 0, 0, 0) url("images/testimonial/bg/2.png") repeat scroll center center/cover;
+	  background: rgba(0, 0, 0, 0) url("images/testimonial/bg/1.png") repeat scroll center center/cover;
 	  content: "";
 	  height: 100%;
 	  left: 0;
@@ -9266,7 +9266,7 @@ Reset Styles
   .footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__details p {
 	color: #fff; }
 	.footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__details p a {
-	  color: #3b41d5; }
+	  color: #ffffff; }
   .footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__details span {
 	color: #fff; }
 	.footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__details span i {
@@ -9352,20 +9352,20 @@ Reset Styles
 	  position: relative; }
 	  .copyright__wrapper .coppy__right__inner p i {
 		padding-right: 10px;
-		color: #777777; }
+		color: #070404; }
   
   .footer--2 .copyright__wrapper {
 	height: 50px; }
 	.footer--2 .copyright__wrapper .coppy__right__inner p {
 	  position: relative;
-	  color: #fff; }
+	  color: #2f85d8; }
 	  .footer--2 .copyright__wrapper .coppy__right__inner p a {
-		color: #fff; }
+		color: #067eee; }
 		.footer--2 .copyright__wrapper .coppy__right__inner p a:hover {
 		  color: #ff5020; }
 	  .footer--2 .copyright__wrapper .coppy__right__inner p i {
 		padding-right: 10px;
-		color: #fff; }
+		color: #2f85d8; }
   
   .footer__variation--3 .ft__logo {
 	margin-bottom: 46px; }
