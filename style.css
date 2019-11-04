@@ -3386,7 +3386,7 @@ Reset Styles
 	  Testimonial Area
   ===========================*/
   .testimonial__container {
-	padding: 0 100px; }
+	padding: 0px; }
 	.testimonial__container .testimonial {
 	  padding: 49px 0; }
 	  .testimonial__container .testimonial .testimonial__inner .test__icon {
