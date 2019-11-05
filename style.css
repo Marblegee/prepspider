@@ -9266,6 +9266,7 @@ Reset Styles
   .footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__details p {
 	color: #2f85d8; }
 	.footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__details p a {
+		line-height: 23px;
 	  color: #2f85d8; }
   .footer--2 .dcare__twit__wrap .dcare__twit .dcare__twit__details span {
 	color: #2f85d8; }
@@ -9476,6 +9477,7 @@ Reset Styles
 	  margin-top: 33px; }
   
 	.footer--2 .footer__widget .ftr__details p {
+	  line-height: 30px;
 	  font-size: 16px; }
   
 	.footer--2 .footer__wrapper {
