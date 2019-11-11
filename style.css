@@ -544,6 +544,9 @@ Reset Styles
   
   .pt--180 {
 	padding-top: 180px; }
+
+	.pt--100 {
+		padding-top: 100px; }
   
   /* Define Colors */
   .color--theme {
@@ -7561,6 +7564,7 @@ height: auto;}
 	margin-top: 30px; }
   .contact__box .contact-btn {
 	margin-top: 30px;
+	margin-bottom: 10px;
 	text-align: center; }
 	.contact__box .contact-btn .dcare__btn {
 	  border: 0 none;
