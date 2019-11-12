@@ -542,6 +542,7 @@ Reset Styles
 	  background: #007bff;
 	  color: #fff; }
   
+	 
   .pt--180 {
 	padding-top: 180px; }
 
@@ -1609,6 +1610,61 @@ Reset Styles
 	  .dacre__social__link--2.bg--2.with__border li a:hover {
 		border: 1px solid transparent; }
   
+  /*========================
+	  FAQs Accordion
+  ===========================*/
+
+		.mb-0{
+			margin-bottom: 0px;
+		}
+
+		.pt--50{
+			padding-top: 50px;
+		}
+		
+		.pb--50{
+			padding-bottom: 50px;
+		}
+
+		.btn-link{
+			font-weight: 400;
+			font-style: italic;
+		}
+
+		.btn-link:focus, .btn-link:hover{
+			text-decoration: none;
+		}
+		
+		.btn-link i {
+			font-size: 20px;
+			margin-right: 10px;
+		}
+
+		.card-header:first-child {
+			border-radius: 45px;
+		}
+		.card-header {
+			padding: .40rem 1.25rem;
+			margin-bottom: 0;
+			background-color: rgba(0,0,0,.03);
+			/* border-bottom: 1px solid rgba(0,0,0,.125); */
+		}
+
+		.card {
+			padding: 15px 2px;
+			position: relative;
+			display: -ms-flexbox;
+			display: flex;
+			-ms-flex-direction: column;
+			flex-direction: column;
+			min-width: 0;
+			word-wrap: break-word;
+			background-color: #fff;
+			background-clip: border-box;
+			border: 1px solid rgba(0,0,0,.125);
+			border-radius: .75rem;
+		}
+
   /*========================
 	  Social Icon 03
   ===========================*/
