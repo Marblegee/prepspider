@@ -1651,7 +1651,7 @@ Reset Styles
 		}
 
 		.card {
-			padding: 15px 2px;
+			padding-bottom: 5px;
 			position: relative;
 			display: -ms-flexbox;
 			display: flex;
@@ -1661,8 +1661,8 @@ Reset Styles
 			word-wrap: break-word;
 			background-color: #fff;
 			background-clip: border-box;
-			border: 1px solid rgba(0,0,0,.125);
-			border-radius: .75rem;
+			border: 1px dashed rgba(0,0,0,.125);
+			border-radius: 35px;
 		}
 
   /*========================
