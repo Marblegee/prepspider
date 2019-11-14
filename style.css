@@ -1699,7 +1699,26 @@ Reset Styles
 			color: #141412;
 			font-size: 15px;
 			font-weight: 400;
+			text-align: justify;
 		}
+
+		.bullet-strong{
+			font-size: 25px;
+			font-weight: 800;
+		}
+
+		.prepmail{
+			color: #007bff;
+		}
+
+		.prepmail:hover{
+			color: #0026ff;
+		}
+
+/*========================
+	  TERMS AND CONDITIONS
+  ===========================*/
+
 
   /*========================
 	  Social Icon 03
